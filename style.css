@@ -236,8 +236,8 @@ footer {
 
 /* VIDEO */
 .gallery-card video {
-    width: 100%;
-    height: 180px;      /* video tidak terlalu besar */
+    width: 55%;
+    height: 300px;      /* video tidak terlalu besar */
     object-fit: cover;
     border-radius: 8px;
 }
